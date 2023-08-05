@@ -2,13 +2,8 @@
 Hi, I'm Juan Pablo Corzo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ 
 <br/>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
@@ -19,8 +14,8 @@ I-am-Greido@github
 💻 I am a self taught  FrontEnd Web Developer & Ux/Ui designer
 📚 I study in UnLaR La Rioja Argentina
 📝 I have a strong interest in web design, designs new and pretty layouts
-🌱 Learning how to create dynmic 
-🌟 Main languages: JavaScript
+🌱 Learning how to create dynmic and beauty interfaces
+🌟 Main language: JavaScript
 🐱‍👤 Frameworks: React, Bootstrap, material UI
 🚩 My objetive its be a Full Stack developer 
 🎵 Love metal,Rap,lofi, blues and soft music
@@ -51,11 +46,9 @@ I-am-Greido@github
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+
 </p>
 
 ### 💻 Software and Tools
@@ -72,16 +65,12 @@ I-am-Greido@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                    Juan Pablo Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| [![Greido GitHub stats](https://github-readme-stats.vercel.app/api?username=Greido)](https://github.com/anuraghazra/github-readme-stats) |
+|                                                                                                      Top Lenguages                                                                                                    |                                                                                                                   |      
+||
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greido&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) | 
 
 
 
