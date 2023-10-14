@@ -38,6 +38,7 @@ I-am-Greido@github
 ### 🧰 Frameworks and Libraries
 
 <p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-563D7C?style=for-the-badge&logo=Redux&logoColor=white"></a>
